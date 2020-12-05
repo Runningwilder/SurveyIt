@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "457543dd4defcf21ed34d20237eea9d0",
+    "revision": "6caf813ea2aa1473e90768590afc708f",
     "url": "/SurveyIt/index.html"
   },
   {
-    "revision": "680246830a17dff0d092",
+    "revision": "f3933070e7b9cce62212",
     "url": "/SurveyIt/static/css/main.9945c763.chunk.css"
   },
   {
-    "revision": "9da4a61b05e52d133551",
-    "url": "/SurveyIt/static/js/2.e897ede1.chunk.js"
+    "revision": "ededca408894172d311f",
+    "url": "/SurveyIt/static/js/2.269ff089.chunk.js"
   },
   {
     "revision": "d14f21e42c09509e44bd25febcf4b2dc",
-    "url": "/SurveyIt/static/js/2.e897ede1.chunk.js.LICENSE.txt"
+    "url": "/SurveyIt/static/js/2.269ff089.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "680246830a17dff0d092",
-    "url": "/SurveyIt/static/js/main.ee7a69a8.chunk.js"
+    "revision": "f3933070e7b9cce62212",
+    "url": "/SurveyIt/static/js/main.4954e50e.chunk.js"
   },
   {
     "revision": "ba92baf31615c376a105",
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SurveyIt/static/media/news1.a4a7d84c.md"
   },
   {
-    "revision": "a06e060d25333c06942b691a09e38068",
-    "url": "/SurveyIt/static/media/news2.a06e060d.md"
+    "revision": "2268c89294a5de7d6dddb82758878795",
+    "url": "/SurveyIt/static/media/news2.2268c892.md"
   }
 ]);
